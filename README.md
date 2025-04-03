@@ -8,6 +8,7 @@
 - git commit -m 'message here' : commits changes along with the message
 - git push -u origin master : uploads local repository content to the remote repository
 - git checkout : Switches branches or restore working tree files
+- git fetch : downloads things from remote repository to local repo
 
 ## Terms
 - Repository
