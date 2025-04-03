@@ -7,10 +7,11 @@
 - git add : adds files to track/stage for the next commit
 - git commit -m 'message here' : commits changes along with the message
 - git push -u origin master : uploads local repository content to the remote repository
+- git checkout : Switches branches or restore working tree files
 
 ## Terms
 - Repository
 - Commit
 - Branch
 - Merge
-- Push
+- Push 
