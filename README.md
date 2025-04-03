@@ -12,4 +12,8 @@
 - Commit
 - Branch
 - Merge
+<<<<<<< Updated upstream
 - Push
+=======
+- Push
+>>>>>>> Stashed changes
