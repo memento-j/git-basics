@@ -1,5 +1,6 @@
 ## Git Basics
 # Commands
+
 - git init : creates new git repository
 - git remote add origin : used to add a remote repository to a local git repository
 - git status : shows the current status of the repository
